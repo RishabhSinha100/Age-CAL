@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Age-CAL/static/css/main.a531f23f.css",
+    "main.js": "/Age-CAL/static/js/main.4c4574e0.js",
+    "index.html": "/Age-CAL/index.html",
+    "main.a531f23f.css.map": "/Age-CAL/static/css/main.a531f23f.css.map",
+    "main.4c4574e0.js.map": "/Age-CAL/static/js/main.4c4574e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a531f23f.css",
+    "static/js/main.4c4574e0.js"
+  ]
+}
